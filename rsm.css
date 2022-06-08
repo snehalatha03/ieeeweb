@@ -1168,7 +1168,7 @@ aspect-ratio: 1;
 #sname{
 margin: 10px;
 }
-@media screen and (max-width:368px) {
+@media screen and (max-width:468px) {
     .rsmimg img{
         width: 25rem;
     }
