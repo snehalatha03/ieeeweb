@@ -223,7 +223,7 @@ body{
     z-index: -1;
 }
 #svg3{
-    position:absolute;
+    position:absolute
     top: 1000px;
     right: 100px;
     width: 400px;
@@ -1128,8 +1128,7 @@ font-size: 50px;
 }
 } 
 .rsmimg img{
-height: 250px;
-aspect-ratio: 1;
+width:40rem;
 }   
      
      
